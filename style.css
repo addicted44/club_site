@@ -79,13 +79,20 @@ li {
   color: yellow;
 }
 
+.testimonial p {
+    font-size: 1rem;
+  }
+
 .summary h2 {
   color: yellow;
 }
 
+.summary p {
+    font-size: 2em;
+  }
+
 .photos img {
   width: 30%;
-  margin: 1.5%;
 }
 
 .meetup {
@@ -138,7 +145,7 @@ li {
 @media only screen and (max-width: 320px) {
 
   .testimonial h1 {
-    font-size: 2rem;
+    font-size: 3rem;
   }
 
   .photos img {
